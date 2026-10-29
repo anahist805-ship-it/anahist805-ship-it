@@ -1,16 +1,18 @@
-## Hi there 👋
+# Anahi Silva
 
-<!--
-**anahist805-ship-it/anahist805-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ingeniería Biomédica | Universidad Tecnológica del Perú**
 
-Here are some ideas to get you started:
+Mi interés académico se centra en la investigación biomédica, la instrumentación y el desarrollo de tecnología aplicada a la salud. Actualmente, complemento mi formación universitaria con el aprendizaje de programación, bioseñales e integración de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de interés
+
+- Investigación biomédica, con especial interés en vacunas contra el cáncer.
+- Adquisición y análisis de bioseñales.
+- Instrumentación y tecnología médica.
+- Desarrollo de herramientas digitales para aplicaciones biomédicas.
+
+## Desarrollo académico y técnico
+
+Me encuentro fortaleciendo mis conocimientos en Arduino, desarrollo web y herramientas de control de versiones, con énfasis en la documentación y el aprendizaje práctico.
+
+Asimismo, me interesa el liderazgo estudiantil y el trabajo interdisciplinario como parte de mi desarrollo profesional.
